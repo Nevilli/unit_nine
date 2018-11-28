@@ -4,4 +4,3 @@ class Card:
 
         self.rank = rank
         self.suit = suit
-        
